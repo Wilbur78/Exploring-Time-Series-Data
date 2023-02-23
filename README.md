@@ -2,7 +2,7 @@
 
 Running a series of modelling experiments on time series data, including:
 
-~ Naive model (baseline)
+~ Naive model (baseline) \n
 ~ Model 1: Dense model (window size = 7, horizon = 1)
 ~ Model 2: Same arch. as model 1 (window size = 30, horizon = 1)
 ~ Model 3: Same arch. as model 1 (window size = 30, horizon = 7)
